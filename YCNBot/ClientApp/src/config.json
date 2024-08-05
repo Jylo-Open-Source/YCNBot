@@ -1,0 +1,16 @@
+{
+    "ALLOW_PERSONAL_MODE": false,
+    "APP_NAME": "YourCompanyNameBot",
+    "COMPANY_INPUT_TERMS": [
+      "<Your Company Term 1>",
+      "<Your Company Term 2>",
+      "<Your Company Term 3>",
+      "<Your Company Term 4>"
+    ],
+    "COMPANY_OUTPUT_TERMS": [
+      "<Your Company Term 1>",
+      "<Your Company Term 2>",
+      "<Your Company Term 3>",
+      "<Your Company Term 4>"
+    ]
+}
